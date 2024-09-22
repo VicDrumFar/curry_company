@@ -29,12 +29,6 @@ def top_delivers( df1, top_asc ):
     
     return df3
 
-
-
-
-# Carregando os dados
-df = pd.read_csv('train.csv')
-
 def clean_code( df1 ):
 
     """ Esta função tem a responsabilidade de limpar o dataframe 
