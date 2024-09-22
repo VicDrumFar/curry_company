@@ -14,7 +14,7 @@ st.sidebar.markdown('# Cury Company')
 st.sidebar.markdown('## Fastest Delivery in Town')
 st.sidebar.markdown('---')
 
-st.write( "Curry Company Growth Dashboard" )
+st.header( "Curry Company Growth Dashboard" )
 
 st.markdown(
     """
