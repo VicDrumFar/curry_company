@@ -80,7 +80,7 @@ def clean_code( df1 ):
 # Import dataset
 #====================================
 
-df = pd.read_csv('train.csv')
+df = pd.read_csv('dataset/train.csv')
 
 # ==================================
 # cleaning dataset
